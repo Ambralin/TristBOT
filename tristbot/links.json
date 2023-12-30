@@ -1,0 +1,32 @@
+{
+  "linkedProfiles": [
+    {
+      "discordId": 461859360931315713,
+      "puuid": "80AYp0A477TgNhdSUYHFxejG7cjwfvaUBVy4jQd80HV_K9NbiOKhd_EAlB0IR6LT2JvqUquH5UxZSw",
+      "leagueServer": "EUW1",
+      "soloq": 33007,
+      "flex": 0
+    },
+    {
+      "discordId": 960612382588149820,
+      "puuid": "EMKosT9wF84pRFTGBDnJoGuOjpNxPBUtgtYtY4H8-CcW4IRh7pEIHL8wZd7mQrfAl-9Np7Jii6rmMQ",
+      "leagueServer": "EUN1",
+      "soloq": 71000,
+      "flex": 62021
+    },
+    {
+      "discordId": 266654482111135756,
+      "puuid": "8Tak13CLeoH11LrKfdY7qYBruMJAYIESlO1FasFH6xpz1qTBWP83pqgNSwlNIXFRHIvmUB9_71DXNg",
+      "leagueServer": "EUN1",
+      "soloq": 42000,
+      "flex": 0
+    },
+    {
+      "discordId": 89382490120142848,
+      "puuid": "ABEsTKkMytrsZWR0R1Kar_LIl8rl60CxLoeTtL_FgrQbWuGBMPAMtUl60QO7ykk1FtlBaOgv23iNZg",
+      "leagueServer": "EUW1",
+      "soloq": 84395,
+      "flex": 0
+    }
+  ]
+}
